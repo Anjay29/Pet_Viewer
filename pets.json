@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "name": "Bella",
+    "animal_type": "Bird",
+    "breed": "Budgerigar",
+    "weight": "15kg",
+    "color": "Brown"
+  },
+  {
+    "id": 2,
+    "name": "Max",
+    "animal_type": "Rabbit",
+    "breed": "Angora",
+    "weight": "28kg",
+    "color": "Yellow"
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "animal_type": "Bird",
+    "breed": "Canary",
+    "weight": "13kg",
+    "color": "Yellow"
+  },
+  {
+    "id": 4,
+    "name": "Lucy",
+    "animal_type": "Hamster",
+    "breed": "Chinese",
+    "weight": "3kg",
+    "color": "Yellow"
+  },
+  {
+    "id": 5,
+    "name": "Cooper",
+    "animal_type": "Cat",
+    "breed": "Sphynx",
+    "weight": "21kg",
+    "color": "Gray"
+  },
+  {
+    "id": 6,
+    "name": "Bailey",
+    "animal_type": "Hamster",
+    "breed": "Syrian",
+    "weight": "14kg",
+    "color": "Brown"
+  },
+  {
+    "id": 7,
+    "name": "Daisy",
+    "animal_type": "Cat",
+    "breed": "Persian",
+    "weight": "18kg",
+    "color": "Brown"
+  },
+  {
+    "id": 8,
+    "name": "Sadie",
+    "animal_type": "Cat",
+    "breed": "Maine Coon",
+    "weight": "26kg",
+    "color": "White"
+  },
+  {
+    "id": 9,
+    "name": "Molly",
+    "animal_type": "Cat",
+    "breed": "Persian",
+    "weight": "10kg",
+    "color": "Cream"
+  },
+  {
+    "id": 10,
+    "name": "Buddy",
+    "animal_type": "Hamster",
+    "breed": "Campbell's",
+    "weight": "10kg",
+    "color": "Green"
+  },
+  {
+    "id": 11,
+    "name": "Rocky",
+    "animal_type": "Rabbit",
+    "breed": "Flemish Giant",
+    "weight": "7kg",
+    "color": "White"
+  },
+  {
+    "id": 12,
+    "name": "Toby",
+    "animal_type": "Bird",
+    "breed": "Cockatoo",
+    "weight": "1kg",
+    "color": "White"
+  },
+  {
+    "id": 13,
+    "name": "Riley",
+    "animal_type": "Bird",
+    "breed": "Parrot",
+    "weight": "11kg",
+    "color": "Gray"
+  },
+  {
+    "id": 14,
+    "name": "Lola",
+    "animal_type": "Hamster",
+    "breed": "Syrian",
+    "weight": "30kg",
+    "color": "White"
+  },
+  {
+    "id": 15,
+    "name": "Duke",
+    "animal_type": "Cat",
+    "breed": "Siamese",
+    "weight": "13kg",
+    "color": "Brown"
+  },
+  {
+    "id": 16,
+    "name": "Luna",
+    "animal_type": "Rabbit",
+    "breed": "Lionhead",
+    "weight": "10kg",
+    "color": "Cream"
+  },
+  {
+    "id": 17,
+    "name": "Zoey",
+    "animal_type": "Hamster",
+    "breed": "Roborovski",
+    "weight": "18kg",
+    "color": "Green"
+  },
+  {
+    "id": 18,
+    "name": "Bentley",
+    "animal_type": "Hamster",
+    "breed": "Roborovski",
+    "weight": "24kg",
+    "color": "Yellow"
+  },
+  {
+    "id": 19,
+    "name": "Chloe",
+    "animal_type": "Hamster",
+    "breed": "Campbell's",
+    "weight": "8kg",
+    "color": "Yellow"
+  },
+  {
+    "id": 20,
+    "name": "Jake",
+    "animal_type": "Bird",
+    "breed": "Cockatoo",
+    "weight": "28kg",
+    "color": "Brown"
+  },
+  {
+    "id": 21,
+    "name": "Maggie",
+    "animal_type": "Bird",
+    "breed": "Parrot",
+    "weight": "18kg",
+    "color": "White"
+  },
+  {
+    "id": 22,
+    "name": "Sophie",
+    "animal_type": "Hamster",
+    "breed": "Syrian",
+    "weight": "26kg",
+    "color": "Cream"
+  },
+  {
+    "id": 23,
+    "name": "Oliver",
+    "animal_type": "Hamster",
+    "breed": "Campbell's",
+    "weight": "2kg",
+    "color": "Cream"
+  },
+  {
+    "id": 24,
+    "name": "Gracie",
+    "animal_type": "Dog",
+    "breed": "Labrador",
+    "weight": "21kg",
+    "color": "Yellow"
+  },
+  {
+    "id": 25,
+    "name": "Gizmo",
+    "animal_type": "Cat",
+    "breed": "Sphynx",
+    "weight": "13kg",
+    "color": "White"
+  },
+  {
+    "id": 26,
+    "name": "Jasper",
+    "animal_type": "Dog",
+    "breed": "Bulldog",
+    "weight": "7kg",
+    "color": "White"
+  },
+  {
+    "id": 27,
+    "name": "Dexter",
+    "animal_type": "Dog",
+    "breed": "Labrador",
+    "weight": "18kg",
+    "color": "Cream"
+  },
+  {
+    "id": 28,
+    "name": "Nala",
+    "animal_type": "Rabbit",
+    "breed": "Angora",
+    "weight": "14kg",
+    "color": "Cream"
+  },
+  {
+    "id": 29,
+    "name": "Buster",
+    "animal_type": "Cat",
+    "breed": "Persian",
+    "weight": "30kg",
+    "color": "White"
+  },
+  {
+    "id": 30,
+    "name": "Oreo",
+    "animal_type": "Rabbit",
+    "breed": "Mini Rex",
+    "weight": "16kg",
+    "color": "Black"
+  },
+  {
+    "id": 31,
+    "name": "Teddy",
+    "animal_type": "Hamster",
+    "breed": "Dwarf",
+    "weight": "19kg",
+    "color": "Black"
+  },
+  {
+    "id": 32,
+    "name": "Simba",
+    "animal_type": "Hamster",
+    "breed": "Campbell's",
+    "weight": "17kg",
+    "color": "Black"
+  },
+  {
+    "id": 33,
+    "name": "Milo",
+    "animal_type": "Cat",
+    "breed": "Sphynx",
+    "weight": "26kg",
+    "color": "Brown"
+  },
+  {
+    "id": 34,
+    "name": "Penny",
+    "animal_type": "Dog",
+    "breed": "Rottweiler",
+    "weight": "5kg",
+    "color": "Black"
+  },
+  {
+    "id": 35,
+    "name": "Jack",
+    "animal_type": "Hamster",
+    "breed": "Syrian",
+    "weight": "5kg",
+    "color": "Gray"
+  },
+  {
+    "id": 36,
+    "name": "Shadow",
+    "animal_type": "Rabbit",
+    "breed": "Dutch",
+    "weight": "25kg",
+    "color": "Gray"
+  },
+  {
+    "id": 37,
+    "name": "Coco",
+    "animal_type": "Bird",
+    "breed": "Canary",
+    "weight": "21kg",
+    "color": "Cream"
+  },
+  {
+    "id": 38,
+    "name": "Missy",
+    "animal_type": "Dog",
+    "breed": "Bulldog",
+    "weight": "2kg",
+    "color": "Cream"
+  },
+  {
+    "id": 39,
+    "name": "Bruno",
+    "animal_type": "Rabbit",
+    "breed": "Flemish Giant",
+    "weight": "3kg",
+    "color": "Yellow"
+  },
+  {
+    "id": 40,
+    "name": "Pepper",
+    "animal_type": "Rabbit",
+    "breed": "Angora",
+    "weight": "23kg",
+    "color": "White"
+  },
+  {
+    "id": 41,
+    "name": "Lucky",
+    "animal_type": "Dog",
+    "breed": "Bulldog",
+    "weight": "29kg",
+    "color": "Yellow"
+  },
+  {
+    "id": 42,
+    "name": "Rusty",
+    "animal_type": "Hamster",
+    "breed": "Campbell's",
+    "weight": "3kg",
+    "color": "Yellow"
+  },
+  {
+    "id": 43,
+    "name": "Zeus",
+    "animal_type": "Rabbit",
+    "breed": "Angora",
+    "weight": "5kg",
+    "color": "Gray"
+  },
+  {
+    "id": 44,
+    "name": "Rosie",
+    "animal_type": "Hamster",
+    "breed": "Campbell's",
+    "weight": "22kg",
+    "color": "White"
+  },
+  {
+    "id": 45,
+    "name": "Bandit",
+    "animal_type": "Bird",
+    "breed": "Finch",
+    "weight": "18kg",
+    "color": "White"
+  },
+  {
+    "id": 46,
+    "name": "Willow",
+    "animal_type": "Dog",
+    "breed": "Poodle",
+    "weight": "15kg",
+    "color": "Yellow"
+  },
+  {
+    "id": 47,
+    "name": "Murphy",
+    "animal_type": "Dog",
+    "breed": "Beagle",
+    "weight": "18kg",
+    "color": "Brown"
+  },
+  {
+    "id": 48,
+    "name": "Lulu",
+    "animal_type": "Rabbit",
+    "breed": "Lionhead",
+    "weight": "3kg",
+    "color": "Cream"
+  },
+  {
+    "id": 49,
+    "name": "Harley",
+    "animal_type": "Rabbit",
+    "breed": "Lionhead",
+    "weight": "20kg",
+    "color": "Green"
+  },
+  {
+    "id": 50,
+    "name": "Holly",
+    "animal_type": "Dog",
+    "breed": "Poodle",
+    "weight": "2kg",
+    "color": "Black"
+  },
+  {
+    "id": 51,
+    "name": "Hunter",
+    "animal_type": "Hamster",
+    "breed": "Dwarf",
+    "weight": "16kg",
+    "color": "White"
+  },
+  {
+    "id": 52,
+    "name": "Izzy",
+    "animal_type": "Rabbit",
+    "breed": "Lionhead",
+    "weight": "29kg",
+    "color": "Black"
+  },
+  {
+    "id": 53,
+    "name": "Sammy",
+    "animal_type": "Bird",
+    "breed": "Finch",
+    "weight": "11kg",
+    "color": "Yellow"
+  },
+  {
+    "id": 54,
+    "name": "Maddie",
+    "animal_type": "Hamster",
+    "breed": "Roborovski",
+    "weight": "13kg",
+    "color": "Yellow"
+  },
+  {
+    "id": 55,
+    "name": "Rex",
+    "animal_type": "Bird",
+    "breed": "Parrot",
+    "weight": "8kg",
+    "color": "Brown"
+  },
+  {
+    "id": 56,
+    "name": "Marley",
+    "animal_type": "Hamster",
+    "breed": "Chinese",
+    "weight": "28kg",
+    "color": "Green"
+  },
+  {
+    "id": 57,
+    "name": "Stella",
+    "animal_type": "Rabbit",
+    "breed": "Angora",
+    "weight": "26kg",
+    "color": "Black"
+  },
+  {
+    "id": 58,
+    "name": "Leo",
+    "animal_type": "Bird",
+    "breed": "Budgerigar",
+    "weight": "11kg",
+    "color": "Brown"
+  },
+  {
+    "id": 59,
+    "name": "Honey",
+    "animal_type": "Dog",
+    "breed": "Poodle",
+    "weight": "1kg",
+    "color": "Gray"
+  },
+  {
+    "id": 60,
+    "name": "Boomer",
+    "animal_type": "Dog",
+    "breed": "Beagle",
+    "weight": "2kg",
+    "color": "Cream"
+  },
+  {
+    "id": 61,
+    "name": "Zoe",
+    "animal_type": "Rabbit",
+    "breed": "Dutch",
+    "weight": "20kg",
+    "color": "White"
+  },
+  {
+    "id": 62,
+    "name": "Benji",
+    "animal_type": "Rabbit",
+    "breed": "Flemish Giant",
+    "weight": "20kg",
+    "color": "Brown"
+  },
+  {
+    "id": 63,
+    "name": "Boomer",
+    "animal_type": "Rabbit",
+    "breed": "Lionhead",
+    "weight": "19kg",
+    "color": "Gray"
+  },
+  {
+    "id": 64,
+    "name": "Lily",
+    "animal_type": "Cat",
+    "breed": "Sphynx",
+    "weight": "7kg",
+    "color": "Green"
+  },
+  {
+    "id": 65,
+    "name": "Brody",
+    "animal_type": "Rabbit",
+    "breed": "Mini Rex",
+    "weight": "29kg",
+    "color": "Gray"
+  },
+  {
+    "id": 66,
+    "name": "Emma",
+    "animal_type": "Dog",
+    "breed": "Bulldog",
+    "weight": "27kg",
+    "color": "Green"
+  },
+  {
+    "id": 67,
+    "name": "Jax",
+    "animal_type": "Cat",
+    "breed": "Siamese",
+    "weight": "26kg",
+    "color": "Black"
+  },
+  {
+    "id": 68,
+    "name": "Koda",
+    "animal_type": "Hamster",
+    "breed": "Roborovski",
+    "weight": "9kg",
+    "color": "Cream"
+  },
+  {
+    "id": 69,
+    "name": "Winston",
+    "animal_type": "Rabbit",
+    "breed": "Angora",
+    "weight": "14kg",
+    "color": "Yellow"
+  },
+  {
+    "id": 70,
+    "name": "Ellie",
+    "animal_type": "Cat",
+    "breed": "Maine Coon",
+    "weight": "29kg",
+    "color": "Brown"
+  },
+  {
+    "id": 71,
+    "name": "Chester",
+    "animal_type": "Rabbit",
+    "breed": "Lionhead",
+    "weight": "12kg",
+    "color": "Gray"
+  },
+  {
+    "id": 72,
+    "name": "Otis",
+    "animal_type": "Cat",
+    "breed": "Sphynx",
+    "weight": "9kg",
+    "color": "Brown"
+  },
+  {
+    "id": 73,
+    "name": "Ranger",
+    "animal_type": "Bird",
+    "breed": "Cockatoo",
+    "weight": "24kg",
+    "color": "Brown"
+  },
+  {
+    "id": 74,
+    "name": "Moose",
+    "animal_type": "Bird",
+    "breed": "Parrot",
+    "weight": "22kg",
+    "color": "Green"
+  },
+  {
+    "id": 75,
+    "name": "Roxy",
+    "animal_type": "Rabbit",
+    "breed": "Dutch",
+    "weight": "15kg",
+    "color": "Gray"
+  },
+  {
+    "id": 76,
+    "name": "Blue",
+    "animal_type": "Bird",
+    "breed": "Finch",
+    "weight": "20kg",
+    "color": "Black"
+  },
+  {
+    "id": 77,
+    "name": "Henry",
+    "animal_type": "Bird",
+    "breed": "Finch",
+    "weight": "6kg",
+    "color": "Yellow"
+  },
+  {
+    "id": 78,
+    "name": "Dakota",
+    "animal_type": "Dog",
+    "breed": "Beagle",
+    "weight": "7kg",
+    "color": "Gray"
+  },
+  {
+    "id": 79,
+    "name": "Ace",
+    "animal_type": "Rabbit",
+    "breed": "Mini Rex",
+    "weight": "5kg",
+    "color": "White"
+  },
+  {
+    "id": 80,
+    "name": "Nikki",
+    "animal_type": "Bird",
+    "breed": "Budgerigar",
+    "weight": "16kg",
+    "color": "Black"
+  },
+  {
+    "id": 81,
+    "name": "Sasha",
+    "animal_type": "Hamster",
+    "breed": "Roborovski",
+    "weight": "18kg",
+    "color": "Brown"
+  },
+  {
+    "id": 82,
+    "name": "Beau",
+    "animal_type": "Cat",
+    "breed": "Ragdoll",
+    "weight": "20kg",
+    "color": "Cream"
+  },
+  {
+    "id": 83,
+    "name": "Baxter",
+    "animal_type": "Cat",
+    "breed": "Sphynx",
+    "weight": "17kg",
+    "color": "Brown"
+  },
+  {
+    "id": 84,
+    "name": "Ginger",
+    "animal_type": "Bird",
+    "breed": "Budgerigar",
+    "weight": "20kg",
+    "color": "Brown"
+  },
+  {
+    "id": 85,
+    "name": "Oscar",
+    "animal_type": "Bird",
+    "breed": "Canary",
+    "weight": "7kg",
+    "color": "White"
+  },
+  {
+    "id": 86,
+    "name": "Finn",
+    "animal_type": "Bird",
+    "breed": "Canary",
+    "weight": "28kg",
+    "color": "Gray"
+  },
+  {
+    "id": 87,
+    "name": "Raven",
+    "animal_type": "Cat",
+    "breed": "Maine Coon",
+    "weight": "24kg",
+    "color": "Cream"
+  },
+  {
+    "id": 88,
+    "name": "Samson",
+    "animal_type": "Dog",
+    "breed": "Bulldog",
+    "weight": "12kg",
+    "color": "Brown"
+  },
+  {
+    "id": 89,
+    "name": "Benny",
+    "animal_type": "Rabbit",
+    "breed": "Angora",
+    "weight": "15kg",
+    "color": "Cream"
+  },
+  {
+    "id": 90,
+    "name": "Hazel",
+    "animal_type": "Hamster",
+    "breed": "Chinese",
+    "weight": "25kg",
+    "color": "Green"
+  },
+  {
+    "id": 91,
+    "name": "Louie",
+    "animal_type": "Dog",
+    "breed": "Beagle",
+    "weight": "26kg",
+    "color": "Black"
+  },
+  {
+    "id": 92,
+    "name": "Minnie",
+    "animal_type": "Dog",
+    "breed": "Poodle",
+    "weight": "1kg",
+    "color": "White"
+  },
+  {
+    "id": 93,
+    "name": "Scout",
+    "animal_type": "Cat",
+    "breed": "Sphynx",
+    "weight": "22kg",
+    "color": "Cream"
+  },
+  {
+    "id": 94,
+    "name": "Sugar",
+    "animal_type": "Bird",
+    "breed": "Cockatoo",
+    "weight": "19kg",
+    "color": "Gray"
+  },
+  {
+    "id": 95,
+    "name": "Boomer",
+    "animal_type": "Bird",
+    "breed": "Cockatoo",
+    "weight": "20kg",
+    "color": "Green"
+  },
+  {
+    "id": 96,
+    "name": "Simba",
+    "animal_type": "Rabbit",
+    "breed": "Flemish Giant",
+    "weight": "5kg",
+    "color": "Black"
+  },
+  {
+    "id": 97,
+    "name": "Ruby",
+    "animal_type": "Rabbit",
+    "breed": "Angora",
+    "weight": "23kg",
+    "color": "White"
+  },
+  {
+    "id": 98,
+    "name": "Freddy",
+    "animal_type": "Hamster",
+    "breed": "Chinese",
+    "weight": "4kg",
+    "color": "Green"
+  },
+  {
+    "id": 99,
+    "name": "Mickey",
+    "animal_type": "Cat",
+    "breed": "Persian",
+    "weight": "30kg",
+    "color": "Cream"
+  },
+  {
+    "id": 100,
+    "name": "Peanut",
+    "animal_type": "Rabbit",
+    "breed": "Dutch",
+    "weight": "17kg",
+    "color": "White"
+  }
+]
